@@ -4,15 +4,15 @@
 
 # Final product
 
-<img title="" src="assets/c84c967e994b9d07ea1040020f3e49019a603e9a.jpg" alt="" width="299">
+<img title="" src="assets/1abd2154abde2f490b2a67fa6b751dfada229455.jpg" alt="" width="299">
 
 # First Toy
 
-When I was a kid, I always looked for mid-autum festival showed our handmade lanterns and hangout with friends.
+When I was a kid, I always looked for mid-autum festival to show our handmade lanterns and hangout with friends.
 
 <img title="" src="assets/1820e8e9792db4afc690c4b5d172a83ed018a5dc.png" alt="" width="200">
 
-The toy above is called "Đèn Lon" which litterally means tin can lattern. A can is stacked on the other to make a bevel gear. Since the tin can is flat, friction is the only force that make the top tin can move when the bottom tin can rotate.
+The toy above is called "Đèn Lon" which litterally means tin can lattern. A can is stacked on top of the other to make a bevel gear. Since we don't have gear, friction is the only force that makes the top tin can move when the bottom tin can rotate.
 
 <img title="" src="assets/5a92f0b39d653d71a547efa8c86aba994e5bbe89.png" alt="2025-09-28-13-32-00-image.png" width="200">
 
@@ -20,7 +20,7 @@ Based on that mechanism, I want to make the toy as below.
 
 <img title="" src="assets/9d6a1d048d88f1f0f21e1d302bf29117ed8b0ed4.jpg" alt="20250924_170315.jpg" width="200">
 
-The flower mechanism seemed to be difficult at the time when I sketched the diagram; however, Make: magazine ([3D Print This Blooming Flower Night Light - Make:](https://makezine.com/projects/3d-print-this-blooming-flower-night-light/)) shows how to make them move with just one servo moving in Z direction. I also designed another version with wheels.
+The flower mechanism seemed to be difficult at the time when I sketched the diagram; however, Make: magazine ([3D Print This Blooming Flower Night Light - Make:](https://makezine.com/projects/3d-print-this-blooming-flower-night-light/)) shows us how to make them move with just one servo moving in top to bottom direction. I also designed another version with wheels.
 
 <img title="" src="assets/63b9cf3c88c0e31dcf9d13dc2d58a5fa4ca18f89.png" alt="" width="300">
 
@@ -28,11 +28,11 @@ However, to test a design with wheels, I need to have something simpler as below
 
 <img title="" src="assets/8985371994991ad41925e6ff2316e2ddf9d903e9.png" alt="" width="300">
 
-Cool! ready to print.
+Cool! the design is ready to print now.
 
 <img title="" src="assets/69e989ab97d14cd891c1e52b38197f5eb5c56eda.jpg" alt="" width="300">
 
-I was lucky to find a working LED board in a waste bin.
+I was lucky to find a working LED board in a waste bin. Thanks UWRepairHub
 
 <img title="" src="assets/926d1f6e78d438be1530d530bb62bdd0d5b7267a.jpg" alt="" width="300">
 
