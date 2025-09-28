@@ -25,6 +25,7 @@ However, to test it first, I need to have something simpler.
 <img title="" src="assets/bd4797d12b1544d5afa5c6ef13ff969422703514.png" alt="" width="300">
 
 Cool! ready to print.
+
 <img title="" src="assets/095b750bf4362a15d72891d236e4a5e0efd99902.jpg" alt="" width="300">
 
 I was lucky to find a working LED board in a waste bin
