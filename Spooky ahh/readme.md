@@ -12,7 +12,7 @@ When I was a kid, I always looked for mid-autum festival to show our handmade la
 
 <img title="" src="assets/1820e8e9792db4afc690c4b5d172a83ed018a5dc.png" alt="" width="200">
 
-The toy above is called "Đèn Lon" which litterally means tin can lattern. A can is stacked on top of the other to make a bevel gear. Since we don't have gear, friction is the only force that makes the top tin can move when the bottom tin can rotate.
+The toy above is called "Đèn Lon" which litterally means tin can lattern. A can is stacked on top of the other to make a bevel gear. Since the cans don't have gear, friction is the only force that makes the top tin can moves when the bottom tin can rotates.
 
 <img title="" src="assets/5a92f0b39d653d71a547efa8c86aba994e5bbe89.png" alt="2025-09-28-13-32-00-image.png" width="200">
 
